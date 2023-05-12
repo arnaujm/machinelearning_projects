@@ -1,0 +1,4 @@
+Include more models
+Optimize hyperparameters (I'm using hyperparameters from another notebook)
+Try other ensemble techniques
+Use seed loops in CV predictions

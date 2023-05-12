@@ -1,0 +1,1 @@
+- Improve function for one-hot encoding to include option for dropping categories and apply it to the code. Produce the same result as in the code but with your function

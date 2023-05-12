@@ -1,0 +1,11 @@
+- treure les predictions de les funcions train_and_predict y acabar el document amb aquestes predictions (optimitzar mean ensembling, stacking, etc.)
+- posar el document bonic i comentarlo
+- apuntar els pendings per al futur, que son:
+	- mirar si fer funcions per a optuna optimization
+
+
+
+
+---------------
+
+- change title of plot distribution of continuous features

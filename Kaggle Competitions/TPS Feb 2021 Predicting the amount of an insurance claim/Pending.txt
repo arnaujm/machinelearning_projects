@@ -1,0 +1,4 @@
+- acabar ensembling techniques, etc.
+- pseudo labelling
+- posar el document bonic: comentar, table of contents, etc.
+- revisar kaggle solutions i discussions per si falta algo
